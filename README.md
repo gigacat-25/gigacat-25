@@ -1,100 +1,136 @@
-👋 Hi, I’m Thejaswin P
+<div align="center">
 
-------------------------------------------------------------------------
+# 👋 Hey, I'm Thejaswin P
 
-🚀 About Me
+### Systems Engineer • Cloud & Infrastructure Builder • Full-Stack Developer • FPV Pilot
 
-    const thejaswin = {
-        username: "gigacat-25",
-        role: "Systems Engineer & Full-Stack Developer",
-        location: "Bengaluru, Karnataka 🇮🇳",
-        education: "VTU University",
-        focus: ["Cloud Infrastructure", "Networking", "Web Development", "AI Integration"],
-        currentlyBuilding: "ImpactOne - AI Resource Booking Platform",
-        interests: ["FPV Drones", "DevOps", "System Design", "Open Source"],
-        funFact: "I debug production servers and fly FPV drones for fun! 🚁"
-    };
+Building scalable systems, cloud-native applications, and infrastructure that performs under pressure.
 
-Building scalable, production-ready systems with a strong focus on
-infrastructure, networking, and performance optimization.
+[🌐 Portfolio](https://www.aarx.space/) • 
+[💼 LinkedIn](https://linkedin.com/in/thejaswin-p) • 
+[📧 Email](mailto:thejaswin@aarx.space)
 
-------------------------------------------------------------------------
+</div>
 
-🎯 Core Expertise
+---
 
-  -----------------------------------------------------------------------
-  🏗️ Infrastructure ☁️ Cloud & DevOps  💻 Development     🎥 Operations
-  ----------------- ----------------- ----------------- -----------------
-    Linux Systems     AWS / Azure /    Next.js / React  AV Technical Ops
-                         Vercel                         
+## 🚀 About Me
 
-   Network Design    Docker & CI/CD    Node.js Backend  FPV Drone Systems
+I'm a systems-focused developer based in Bengaluru, India, with a deep interest in infrastructure, networking, and scalable web systems.
 
-   Load Balancing    GitHub Actions       REST APIs      Live Streaming
+I don’t just build applications —  
+I design how they run, scale, and survive in production.
 
-    Server Config   Cloud Deployment   Database Design  Event Management
-  -----------------------------------------------------------------------
+My work combines:
 
-------------------------------------------------------------------------
+- 🏗 Infrastructure thinking  
+- ☁️ Cloud-native deployment  
+- 🔐 Secure authentication systems  
+- ⚡ Performance optimization  
+- 🤖 AI integration into real systems  
 
-🛠️ Tech Stack
+Outside of development, I fly FPV drones and manage live technical operations for large-scale events — because engineering should exist both in code and in the real world.
 
-Languages & Frameworks
+---
 
-Next.js • React • Node.js • TypeScript • Python
+## 🎯 What I Focus On
 
-Cloud & Infrastructure
+### 🏗 Infrastructure & Systems
+- Linux server configuration  
+- Load balancing & networking  
+- Cloud deployment architecture  
+- CI/CD pipelines  
 
-AWS • Google Cloud • Docker • Linux • Nginx
+### ☁️ Cloud & DevOps
+- AWS & Google Cloud fundamentals  
+- Docker containerization  
+- GitHub Actions automation  
+- Edge deployment with Vercel  
 
-------------------------------------------------------------------------
+### 💻 Full-Stack Development
+- Next.js & React  
+- Node.js APIs  
+- REST architecture  
+- Authentication (Clerk / OAuth / JWT)  
+- PostgreSQL + Prisma  
 
-💼 Featured Project
+---
 
-💼 ImpactOne — AI-Powered Resource Booking Platform
+## 💼 Featured Work
 
-Modern venue and resource management system designed for organizational
-efficiency.
+### 🚀 ImpactOne  
+AI-powered resource & venue booking platform designed for organizational efficiency.
 
-Key Highlights:
+Key highlights:
 
--   🔐 Clerk Authentication
--   🤖 AI-powered scheduling
--   📊 Real-time dashboard
--   ☁️ Cloud-native deployment
--   ⚡ Performance optimized
+- Secure role-based authentication  
+- Smart scheduling logic  
+- Real-time dashboards  
+- Cloud-native deployment  
+- Performance optimized architecture  
 
-🌐 Live Demo: https://www.aarx.space/ 📂 View Code:
-https://github.com/gigacat-25
+Live: https://www.aarx.space/
 
-------------------------------------------------------------------------
+---
 
-📊 GitHub Stats
+## 🛠 Tech Stack
 
-Uses: - github-readme-stats - github-readme-streak-stats -
-github-readme-activity-graph
+**Frontend**
+- Next.js
+- React
+- Tailwind CSS
+- TypeScript
 
-------------------------------------------------------------------------
+**Backend**
+- Node.js
+- REST APIs
+- Prisma ORM
 
-🎯 2026 Goals
+**Database**
+- PostgreSQL
+- Redis
 
--   Launch ImpactOne with 100+ active users
--   Complete AWS Solutions Architect certification
--   Contribute to 3 major open-source projects
--   Master Kubernetes
--   Build 5 production-grade systems
+**Infrastructure**
+- Docker
+- Linux
+- Vercel
+- GitHub Actions
 
-------------------------------------------------------------------------
+---
 
-🤝 Open To
+## 📈 Current Goals (2026)
 
--   Infrastructure Engineering Internships
--   Cloud & DevOps Roles
--   Full-Stack Positions
--   Open Source Collaborations
+- Launch ImpactOne with 100+ active users  
+- Complete AWS Solutions Architect certification  
+- Contribute to major open-source projects  
+- Master Kubernetes & container orchestration  
+- Build production-grade infrastructure systems  
 
-------------------------------------------------------------------------
+---
 
-⚡ “Building the infrastructure that powers tomorrow’s innovations”
+## 🧠 Engineering Philosophy
 
-⭐ Star my repositories if you find them useful!
+I believe:
+
+- Systems should be observable.
+- Infrastructure should be intentional.
+- Performance is a feature.
+- Clean architecture scales better than hacks.
+- Real engineers understand what happens beneath the abstraction.
+
+---
+
+## 🤝 Open To
+
+- Infrastructure Engineering Internships  
+- Cloud & DevOps Roles  
+- Full-Stack Engineering Opportunities  
+- Open Source Collaboration  
+
+---
+
+<div align="center">
+
+⚡ *"I build the systems that power the interface."*
+
+</div>

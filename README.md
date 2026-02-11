@@ -44,16 +44,23 @@ Outside of development, I fly FPV drones and manage live technical operations fo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gigacat-25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigacat-25&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8" />
+  
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gigacat-25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&count_private=true&include_all_commits=true)](https://github.com/gigacat-25)
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gigacat-25&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8)](https://github.com/gigacat-25)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=gigacat-25&theme=react&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" alt="GitHub Streak" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=gigacat-25&theme=react&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7)](https://github.com/gigacat-25)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gigacat-25&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF" alt="Contribution Graph" />
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gigacat-25&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF)](https://github.com/gigacat-25)
+
 </div>
 
 ---

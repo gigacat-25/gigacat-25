@@ -1,82 +1,33 @@
-<h1 align="center">Thejaswin P</h1>
-<p align="center">
-Systems-Focused Developer • Cloud & Networking • Infrastructure • FPV Pilot
-</p>
+<div align="center">
+  
+# 👋 Hi, I'm Thejaswin P
 
----
-
-## Profile
-
-I build and deploy production-ready systems with a focus on infrastructure, networking, and scalable web applications.
-
-My interest lies in understanding how systems operate beneath the surface — from authentication and deployment pipelines to server configuration and performance optimization.
-
-Portfolio  
-https://www.aarx.space/
-
----
-
-## Core Areas
-
-• Cloud & Infrastructure Engineering  
-• Networking Fundamentals  
-• Full-Stack Web Applications  
-• AI-Integrated Systems  
-• AV Technical Operations  
-• FPV Drone Systems  
-
----
-
-## Selected Project
-
-### ImpactOne — AI-Powered Resource Booking Platform
-
-Modern venue and resource management system designed for organizational efficiency.
-
-**Stack**
-Next.js • React • Node.js • Clerk Auth • Cloud Deployment • AI Integration
-
----
-
-## Technology
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-000000?style=flat&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
-</p>
-
----
-
-## GitHub Metrics
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3DFFE6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Systems-Focused+Developer;Cloud+%26+Networking+Engineer;Infrastructure+Specialist+%7C+FPV+Pilot" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=false&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=000000" />
+  <a href="https://www.aarx.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/thejaswin-p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:thejaswin@aarx.space"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=aaaaaa&currStreakNum=ffffff&sideLabels=aaaaaa" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=000000&style=flat" />
-</p>
+## 🚀 About Me
 
----
-
-## Direction
-
-Focused on becoming a systems-level engineer capable of designing scalable, reliable, and production-grade infrastructure.
-
----
-
-<p align="center">
-Open to internships, infrastructure roles, and technical collaborations.
-</p>
-
-
+```typescript
+const thejaswin = {
+    username: "gigacat-25",
+    role: "Systems Engineer & Full-Stack Developer",
+    location: "Bengaluru, Karnataka 🇮🇳",
+    education: "VTU University",
+    focus: ["Cloud Infrastructure", "Networking", "Web Development", "AI Integration"],
+    currentlyBuilding: "ImpactOne - AI Resource Booking Platform",
+    interests: ["FPV Drones", "DevOps", "System Design", "Open Source"],
+    communities: ["Ascent Tech Club", "VTU Developer Circle"],
+    funFact: "I debug production servers and fly FPV drones for fun! 🚁"
+};

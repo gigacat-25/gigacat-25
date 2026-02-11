@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thejaswin_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thejaswin-p)
 [![Email](https://img.shields.io/badge/Email-thejaswin@aarx.space-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaswin@aarx.space)
 
-<img src="https://komarev.com/ghpvc/?username=thejaswinp&label=Profile%20Views&color=00C7B7&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=gigacat-25&label=Profile%20Views&color=00C7B7&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -20,20 +20,19 @@
 
 ## 🚀 About Me
 
-```typescript
-const thejaswin = {
-    location: "Bengaluru, India 🇮🇳",
-    role: "Systems Engineer & Full-Stack Developer",
-    focus: ["Infrastructure", "Cloud Architecture", "Performance Engineering"],
-    currentlyBuilding: "ImpactOne - AI-powered resource management platform",
-    flyingOn: "FPV Drones 🚁",
-    philosophy: "I don't just build applications — I design how they run, scale, and survive in production."
-};
-```
+📍 **Based in:** Bengaluru, India 🇮🇳  
+👨‍💻 **Role:** Systems Engineer & Full-Stack Developer  
+🎯 **Focus:** Infrastructure • Cloud Architecture • Performance Engineering  
+🚀 **Currently Building:** ImpactOne - AI-powered resource management platform  
+🚁 **Hobby:** FPV Drone Pilot
+
+---
 
 I'm a systems-focused developer with a deep interest in infrastructure, networking, and scalable web systems.
 
-My work combines:
+**I don't just build applications — I design how they run, scale, and survive in production.**
+
+### My work combines:
 
 🏗 **Infrastructure thinking** • ☁️ **Cloud-native deployment** • 🔐 **Secure authentication systems**  
 ⚡ **Performance optimization** • 🤖 **AI integration into real systems**
@@ -45,16 +44,16 @@ Outside of development, I fly FPV drones and manage live technical operations fo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thejaswinp&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaswinp&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gigacat-25&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigacat-25&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=thejaswinp&theme=react&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=gigacat-25&theme=react&hide_border=true&background=0D1117&stroke=00C7B7&ring=00C7B7&fire=FF6B6B&currStreakLabel=00C7B7" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thejaswinp&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gigacat-25&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
